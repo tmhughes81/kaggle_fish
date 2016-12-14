@@ -1,4 +1,5 @@
 {
 	"source_dir":"/Users/thughes/tmp/data/",
-	"train_dir":"fish-train/"
+	"train_dir":"fish-train/",
+	"models_dir":"/Users/thughes/tmp/data/"
 }
